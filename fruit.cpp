@@ -6,9 +6,7 @@ Fruit::Fruit()
 }
 
 Fruit::~Fruit()
-{
-
-}
+{}
 
 void Fruit::onErase(){
     QMediaPlayer * player = new QMediaPlayer;
